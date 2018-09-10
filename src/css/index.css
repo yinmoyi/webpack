@@ -1,0 +1,9 @@
+ul{
+    list-style: none;
+}
+.banner{
+    width: 200px;
+    height: 100px;
+    background: url(../images/banner.jpg);
+    background-size: cover;
+}

@@ -1,0 +1,206 @@
+{
+    "status":0,
+    "message":[
+        {
+            "url":"https://gw.alicdn.com/imgextra/i1/16/TB2b6xvtBsmBKNjSZFsXXaXSVXa_!!16-0-lubanu.jpg",
+            "id":1
+        },
+        {
+            "url":"http://img.alicdn.com/imgextra/i4/198/TB2btKgpkomBKNjSZFqXXXtqVXa_!!198-0-luban.jpg",
+            "id":2
+        },
+        {
+            "url":"https://gw.alicdn.com/imgextra/i3/177/TB2s3Kkt_qWBKNjSZFxXXcpLpXa_!!177-0-luban.jpg",
+            "id":3
+        }
+    ],
+    "news":[
+        {
+            "id":1,
+            "title":"厦门大学“精日”女研究生被开除党籍退学",
+            "addTime":"2018-01-02",
+            "zhaiyao":"9月1日23时57分，共青团中央官博发布了一张截图，显示厦门大学新闻网今天的一条消息。此前“洁洁良”事件的当事人田佳良被开除党籍、退学。",
+            "click":1,
+            "img":"http://dcloud.io/hellomui/images/shuijiao.jpg"
+        },
+        {
+            "id":2,
+            "title":"怕了？蔡英文吃着盒饭说：我们干的事或全被推翻",
+            "addTime":"2018-01-04",
+            "zhaiyao":"海外网9月2日电 昨日（1日），民进党主席蔡英文到台中市与竞选团队及90多个“后援会”进行便当会，蔡英文声称，“2018年台中这一局最重要，中部选情是整个执政团队最重要的，年底选举若没赢，我们现在做的可能都会被翻转。”",
+            "click":2,
+            "img":"http://dcloud.io/hellomui/images/shuijiao.jpg"
+        },
+        {
+            "id":3,
+            "title":"中国经济增速在放缓将向关税战投降？美专家驳斥",
+            "addTime":"2018-01-10",
+            "zhaiyao":"中国经济增速在放缓将向关税战投降？美专家驳斥中国经济增速在放缓将向关税战投降？美专家驳斥",
+            "click":0,
+            "img":"http://dcloud.io/hellomui/images/shuijiao.jpg"
+        },
+        {
+            "id":4,
+            "title":"上海今秋新增90所中小学幼儿园郊区超8成 附全名单",
+            "addTime":"2018-01-10",
+            "zhaiyao":"上海今秋新增90所中小学幼儿园郊区超8成 附全名单上海今秋新增90所中小学幼儿园郊区超8成 附全名单",
+            "click":0,
+            "img":"http://dcloud.io/hellomui/images/shuijiao.jpg"
+        },
+        {
+            "id":5,
+            "title":"上海设25个受理点办港澳台居民居住证 台胞热情高涨",
+            "addTime":"2018-01-11",
+            "zhaiyao":"上海设25个受理点办港澳台居民居住证 台胞热情高涨上海设25个受理点办港澳台居民居住证 台胞热情高涨",
+            "click":0,
+            "img":"http://dcloud.io/hellomui/images/shuijiao.jpg"
+        },
+        {
+            "id":6,
+            "title":"上海今秋新增90所中小学幼儿园郊区超8成 附全名单",
+            "addTime":"2018-01-10",
+            "zhaiyao":"上海今秋新增90所中小学幼儿园郊区超8成 附全名单上海今秋新增90所中小学幼儿园郊区超8成 附全名单",
+            "click":0,
+            "img":"http://dcloud.io/hellomui/images/shuijiao.jpg"
+        },
+        {
+            "id":7,
+            "title":"上海设25个受理点办港澳台居民居住证 台胞热情高涨",
+            "addTime":"2018-01-11",
+            "zhaiyao":"上海设25个受理点办港澳台居民居住证 台胞热情高涨上海设25个受理点办港澳台居民居住证 台胞热情高涨",
+            "click":0,
+            "img":"http://dcloud.io/hellomui/images/shuijiao.jpg"
+        },
+        {
+            "id":8,
+            "title":"上海今秋新增90所中小学幼儿园郊区超8成 附全名单",
+            "addTime":"2018-01-10",
+            "zhaiyao":"上海今秋新增90所中小学幼儿园郊区超8成 附全名单上海今秋新增90所中小学幼儿园郊区超8成 附全名单",
+            "click":0,
+            "img":"http://dcloud.io/hellomui/images/shuijiao.jpg"
+        },
+        {
+            "id":9,
+            "title":"上海设25个受理点办港澳台居民居住证 台胞热情高涨",
+            "addTime":"2018-01-11",
+            "zhaiyao":"上海设25个受理点办港澳台居民居住证 台胞热情高涨上海设25个受理点办港澳台居民居住证 台胞热情高涨",
+            "click":0,
+            "img":"http://dcloud.io/hellomui/images/shuijiao.jpg"
+        }
+    ],
+    "category":[
+        {"title":"安心蔬菜","id":1},
+        {"title":"豆制品","id":2},
+        {"title":"新鲜水果","id":3},
+        {"title":"肉禽蛋","id":4},
+        {"title":"水产海鲜","id":5},
+        {"title":"时令新品","id":6},
+        {"title":"营养早餐","id":7},
+        {"title":"乳制品","id":8},
+        {"title":"厨房用品","id":9},
+        {"title":"半成品","id":10}
+    ],
+    "photos":[
+        {
+            "id":1,
+            "zhaiyao":"吸水海绵拖把头对折式家用胶棉拖把懒人地拖布旋转免手洗干湿两用",
+            "src":"https://img.alicdn.com/tps/i4/TB2_dOfnv6TBKNjSZJiXXbKVFXa_!!0-juitemmedia.jpg",
+            "msrc":"https://img.alicdn.com/tps/i4/TB2_dOfnv6TBKNjSZJiXXbKVFXa_!!0-juitemmedia.jpg"
+        },
+        {
+            "id":2,
+            "zhaiyao":"吸水海绵拖把头对折式家用胶棉拖把懒人地拖布旋转免手洗干湿两用",
+            "src":"https://img.alicdn.com/tps/i2/TB2Wr_XJbGYBuNjy0FoXXciBFXa_!!0-juitemmedia.jpg",
+            "msrc":"https://img.alicdn.com/tps/i2/TB2Wr_XJbGYBuNjy0FoXXciBFXa_!!0-juitemmedia.jpg"
+        },
+        {
+            "id":3,
+            "zhaiyao":"吸水海绵拖把头对折式家用胶棉拖把懒人地拖布旋转免手洗干湿两用",
+            "src":"https://img.alicdn.com/tps/i3/1087813353/TB2eFlxbIj_B1NjSZFHXXaDWpXa_!!0-juitemmedia.jpg",
+            "msrc":"https://img.alicdn.com/tps/i3/1087813353/TB2eFlxbIj_B1NjSZFHXXaDWpXa_!!0-juitemmedia.jpg"
+        },
+        {
+            "id":4,
+            "zhaiyao":"吸水海绵拖把头对折式家用胶棉拖把懒人地拖布旋转免手洗干湿两用",
+            "src":"https://img.alicdn.com/tps/i4/694045315/TB2kRluX1SSBuNjy0FlXXbBpVXa_!!2-juitemmedia.png",
+            "msrc":"https://img.alicdn.com/tps/i4/694045315/TB2kRluX1SSBuNjy0FlXXbBpVXa_!!2-juitemmedia.png"
+        },
+        {
+            "id":5,
+            "zhaiyao":"吸水海绵拖把头对折式家用胶棉拖把懒人地拖布旋转免手洗干湿两用",
+            "src":"https://img.alicdn.com/tps/i3/TB29M3PqRyWBuNkSmFPXXXguVXa_!!0-juitemmedia.jpg",
+            "msrc":"https://img.alicdn.com/tps/i3/TB29M3PqRyWBuNkSmFPXXXguVXa_!!0-juitemmedia.jpg"
+        },
+        {
+            "id":6,
+            "zhaiyao":"吸水海绵拖把头对折式家用胶棉拖把懒人地拖布旋转免手洗干湿两用",
+            "src":"https://img.alicdn.com/tps/i1/126279011/TB2obDNbuuSBuNjSsplXXbe8pXa_!!0-juitemmedia.jpg",
+            "msrc":"https://img.alicdn.com/tps/i1/126279011/TB2obDNbuuSBuNjSsplXXbe8pXa_!!0-juitemmedia.jpg"
+        }
+    ],
+    "goods":[
+        {
+            "id":1,
+            "img_url":"https://img.alicdn.com/tfscom/i3/2452452361/TB1DDaYaMjN8KJjSZFgXXbjbVXa_!!0-item_pic.jpg",
+            "title":"厨房放碗架 塑料用品沥水滴水碗碟架碗筷收纳置物架收纳盒收纳篮",
+            "new_price":18.8,
+            "old_price":36.6,
+            "mark":"热卖中",
+            "stock":34
+        },
+        {
+            "id":2,
+            "img_url":"https://gaitaobao1.alicdn.com/tfscom/i3/291840584/O1CN011GBVl4MS3663GIf_!!291840584.jpg_240x240xz.jpg",
+            "title":"直降890元 Huawei/华为 P20 Pro全网通手机极光色降价正品全面屏",
+            "new_price":2818,
+            "old_price":5407,
+            "mark":"热卖中",
+            "stock":255
+        },
+        {
+            "id":3,
+            "img_url":"https://img.alicdn.com/tfscom/i2/2174893850/TB2si8Czb1YBuNjSszhXXcUsFXa_!!2174893850-0-item_pic.jpg",
+            "title":"厨房置物架壁挂式免打孔收纳刀架用具用品调味调料小百货厨具架子",
+            "new_price":20.8,
+            "old_price":36.6,
+            "mark":"热卖中",
+            "stock":135
+        },
+        {
+            "id":4,
+            "img_url":"https://img.alicdn.com/tfscom/i4/2974462283/O1CN011SjefT23d4hVENC_!!2974462283.jpg",
+            "title":"厨房置物架用品用具晾洗放沥水碗架碗柜碗碟碗筷盘刀收纳盒餐具架",
+            "new_price":24.9,
+            "old_price":36.6,
+            "mark":"热卖中",
+            "stock":34
+        },
+        {
+            "id":5,
+            "img_url":"https://gaitaobao2.alicdn.com/tfscom/i2/867812872/TB2FV7kXzfguuRjSspkXXXchpXa_!!867812872.jpg",
+            "title":"【送蓝牙耳机+电源】Huawei/华为 nova 3e手机正品3 4 nova3e新款",
+            "new_price":1458,
+            "old_price":2000,
+            "mark":"热卖中",
+            "stock":34
+        },
+        {
+            "id":6,
+            "img_url":"https://gaitaobao3.alicdn.com/tfscom/i3/1639805004/TB2DJl0qER1BeNjy0FmXXb0wVXa_!!1639805004-0-item_pic.jpg",
+            "title":"Huawei/华为 P10全网通4G【送钢化膜+保护套+蓝牙】智能手机NFC p10p20",
+            "new_price":1988,
+            "old_price":2400,
+            "mark":"热卖中",
+            "stock":200
+        },
+        {
+            "id":7,
+            "img_url":"https://gaitaobao2.alicdn.com/tfscom/i4/867812872/O1CN011X5Px9lwjqaeDN3_!!867812872.jpg_240x240xz.jpg",
+            "title":"送移动电源+皮套Huawei/华为 P20手机p20降价官方p20pro极光pro",
+            "new_price":2778,
+            "old_price":5228,
+            "mark":"热卖中",
+            "stock":344
+        }
+    ]
+}
