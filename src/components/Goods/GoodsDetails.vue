@@ -1,5 +1,7 @@
 <template>
     <div class="goodsInfo">
+        <!-- <div class="ball"></div> -->
+
         <!-- 商品轮播 -->
         <div class="mui-card">
 			<div class="mui-card-content">
@@ -19,11 +21,11 @@
                         <span class="new_price">销售价：￥2199</span>
                     </p>
                     <p class="number">
-                        购买数量： <numbox></numbox>  
+                        购买数量： <numbox @getCount="getSelectedCount"></numbox>  
                     </p>
                     <p>
                         <mt-button type="primary" size="small">立即购买</mt-button>
-                        <mt-button type="danger" size="small">加入购物车</mt-button>
+                        <mt-button type="danger" size="small" @click="addToCar">加入购物车</mt-button>
                     </p>
 				</div>
 			</div>
@@ -55,7 +57,8 @@ export default {
     data(){
         return {
             id:this.$route.params.id,
-            goodsLunbo:[]
+            goodsLunbo:[],
+            selectedCount:1 //默认为1
         }
     },
     created(){
@@ -81,6 +84,19 @@ export default {
         goGoodsComments(id){
             // 利用导航式路由跳转至商品评论
             this.$router.push({name:'GoodsComments',params:{ id }})
+        },
+        getSelectedCount(count){
+            this.selectedCount = count;
+            // console.log(this.selectedCount)
+        },
+        addToCar(){
+            var goodsinfo ={
+                id:this.id,
+                count:this.selectedCount,
+                price:23,
+                selected:true
+            }
+            this.$store.commit('addTocar',goodsinfo);
         }
     },
     components:{
@@ -91,6 +107,8 @@ export default {
 </script>
 
 <style lang="less" scoped>
+
+
 .goodsInfo{
     background-color: #eee;
     overflow: hidden;
